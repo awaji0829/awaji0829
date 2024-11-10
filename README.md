@@ -13,10 +13,10 @@
 
 
 ### 📈 Professional Highlights
-- **Cross-platform Development**: Specialized in developing **cross-platform applications** with frameworks like React Native, delivering consistent experiences across both iOS and Android.
-- **Diverse Project Experience & Problem-Solving Skills**: Contributed to a variety of projects, including **hybrid apps, web services, and admin dashboards**, demonstrating strong skills in troubleshooting and optimizing technical issues.
-- **Effective Communication**: Proven ability to collaborate seamlessly with development, design, and product teams, maintaining clear communication to drive successful project outcomes.
-- **Platform Management & Documentation for Collaboration**: Dedicated to **platform management** and creating detailed **documentation to support team collaboration**, fostering efficient workflows and ease of maintenance.
+- 📱**Cross-platform Development**: Specialized in developing **cross-platform applications** with frameworks like React Native, delivering consistent experiences across both iOS and Android.
+- 🌐 **Diverse Project Experience & Problem-Solving Skills**: Contributed to a variety of projects, including **hybrid apps, web services, and admin dashboards**, demonstrating strong skills in troubleshooting and optimizing technical issues.
+- 🤝 **Effective Communication**: Proven ability to collaborate seamlessly with development, design, and product teams, maintaining clear communication to drive successful project outcomes.
+- 📂 **Platform Management & Documentation for Collaboration**: Dedicated to **platform management** and creating detailed **documentation to support team collaboration**, fostering efficient workflows and ease of maintenance.
 
 
 ---
