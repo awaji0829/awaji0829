@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Let's Connect!
-- **Blog:** [Your Blog](https://awaji0829.github.io/)
+- **Blog:** [Awaji Blog](https://awaji0829.github.io/)
 
 
 
