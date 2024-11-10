@@ -1,10 +1,5 @@
 <h1> 🏂 JUST PLAY GROUND 🤾‍♀️ </h1> 
 
-# 👋 Hi there, I'm [Your Name]!
-
-I am a frontend developer with **3 years and 8 months** of experience in app and web development, specializing in **hybrid apps, web services, and admin projects**. Recently, I transitioned into a **Service Planner** role to get closer to problem-solving and the strategic side of product development.
-
----
 
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -16,25 +11,19 @@ I am a frontend developer with **3 years and 8 months** of experience in app and
 
 ---
 
-### 🌟 Notable Projects
-#### [Tangopick Web](https://github.com/username/tangopick_web)
-A web platform focused on [describe the main function of tangopick_web].
-
-#### [Project Name]
-Brief description of another significant project.
-
----
 
 ### 📈 Professional Highlights
-- Developed and maintained multiple **hybrid apps** and **web services**.
-- Recently transitioned to a **Service Planner** role to deepen problem-solving in product development.
-- Passionate about enhancing user experience through **thoughtful service planning and continuous improvement**.
+- **Cross-platform Development**: Specialized in developing **cross-platform applications** with frameworks like React Native, delivering consistent experiences across both iOS and Android.
+- **Diverse Project Experience & Problem-Solving Skills**: Contributed to a variety of projects, including **hybrid apps, web services, and admin dashboards**, demonstrating strong skills in troubleshooting and optimizing technical issues.
+- **Effective Communication**: Proven ability to collaborate seamlessly with development, design, and product teams, maintaining clear communication to drive successful project outcomes.
+- **Platform Management & Documentation for Collaboration**: Dedicated to **platform management** and creating detailed **documentation to support team collaboration**, fostering efficient workflows and ease of maintenance.
+
 
 ---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Blog:** [Your Blog](https://yourblog.com)
+- **Blog:** [Your Blog](https://awaji0829.github.io/)
 
 
 
