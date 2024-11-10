@@ -22,7 +22,6 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Blog:** [Your Blog](https://awaji0829.github.io/)
 
 
